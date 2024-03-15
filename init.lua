@@ -1,0 +1,2 @@
+require("emmitt")
+print("hello")
