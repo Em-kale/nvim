@@ -37,4 +37,6 @@ return require('packer').startup(function(use)
     {'L3MON4D3/LuaSnip'},
   }
 }
-end) 
+use('jose-elias-alvarez/null-ls.nvim')
+use('MunifTanjim/prettier.nvim')
+end)

@@ -25,6 +25,7 @@ vim.api.nvim_create_autocmd('LspAttach', {
   end
 })
 
+
 local lsp_capabilities = require('cmp_nvim_lsp').default_capabilities()
 
 local default_setup = function(server)
