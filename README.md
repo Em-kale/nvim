@@ -1,7 +1,8 @@
 Just my personal Nvim configuration - includes LSP, fuzzyfinder, undo tree, pretty colours, etc. 
 
 Note: as of March 2024, you must use the recent, unstable version of nvim or it will explode 
-
+    - to install on ubuntu, you cannot use apt, as it is outdated, snap has an updated version that will do though. 
+    
 Other things you will need to install manually as of now to get this working:
 
     - npm 
