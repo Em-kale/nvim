@@ -6,6 +6,7 @@ Note: as of March 2024, you must use the recent, unstable version of nvim or it 
 You must then install packer by cloning the repository into your nvim path. Just navigate to the packer repo, it is like the first thing in the readme. 
 Then navigate to the packer file and in the vim command console enter
 ```so```
+
 ```PackerSync```
 
 Other things you will need to install manually as of now to get this working:
