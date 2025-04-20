@@ -1,3 +1,6 @@
+##NOTE - this repo is deprecated, I have since switched to a config based on kickstart to leverage lazy.nvim and ease of implementation 
+
+
 Just my personal Nvim configuration - includes LSP, fuzzyfinder, undo tree, pretty colours, etc. 
 
 Note: as of March 2024, you must use the recent, unstable version of nvim or it will explode 
